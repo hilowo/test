@@ -64,8 +64,8 @@
   --dnd-color: #920000;
   --streaming-color: #593695;
   --offline-color: #4E4E4E;
-  --main-font: OMORI_GAME2;
-  --code-font: OMORI_GAME2;
+  --main-font: gg_sans
+  --code-font: gg_sans
   --channels-width: 220px;
   --members-width: 240px;
   --backdrop-overlay: rgba(0,0,0,0.8);
